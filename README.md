@@ -1,3 +1,2 @@
 # Contrarianproject
-repository for my website files
-contrarianproject.com
+repository for my website files (contrarianproject.com)
